@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdr:home|Door43 (cdr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdr|d43-cdr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdr/archive/master.zip|d43-cdr.zip]]
+
+**Recent Changes**
+{{changes>ns = cdr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdr|Ethnologue data]]
+
